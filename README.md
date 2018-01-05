@@ -6,6 +6,7 @@ A curated list of awesomeness in 2017
 <!-- toc -->
 
 - [AI](#ai)
+- [Art](#art)
 - [Business](#business)
 - [Entertainment](#entertainment)
 - [Finance](#finance)
@@ -20,9 +21,15 @@ A curated list of awesomeness in 2017
 # AI
 * [WILDML](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/) - AI and Deep Learning in 2017 – A Year in Review
 
+# Art
+* [Wikipedia](https://en.wikipedia.org/wiki/2017_in_art) - 2017 in art
+* [National Geographic](https://www.nationalgeographic.com/photography/best-of-2017/best-pictures/) - BEST PHOTOS OF 2017
+* [Flickr](http://blog.flickr.net/en/2017/12/07/top-25-photos-on-flickr-in-2017-from-around-the-world/) - Top 25 Photos on Flickr in 2017 From Around The World
+
 # Business
 * [MIT Technology Review](https://www.technologyreview.com/lists/companies/2017/) - 50 Smartest Companies 2017
 * [Fortune](http://fortune.com/2017/12/18/business-trends-news-2017/) - The Best of 2017 in Business
+* [EY](https://betterworkingworld.ey.com/purpose/global-review-2017) - Global review 2017
 
 # Entertainment
 * [IMDb](http://www.imdb.com/search/title?year=2017&title_type=feature&) - Most Popular Feature Films Released 2017-01-01 to 2017-12-31
