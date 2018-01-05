@@ -53,6 +53,7 @@ YEAR IN REVIEW
 # Tech
 * [Google](https://trends.google.com/trends/yis/2017/GLOBAL/) - Year in Search 2017
 * [MIT Technology Review](https://www.technologyreview.com/lists/technologies/2017/) - 10 Breakthrough Technologies 2017
+* [RescueTime](http://blog.rescuetime.com/225-million-hours-productivity/) - Productivity in 2017: What we learned from analyzing 225 million hours of work time
 * [Stackoverflow](https://insights.stackoverflow.com/survey/2017) - Developer Survey Results 2017
 * [Github](https://octoverse.github.com) - The State of the Octoverse 2017
 * [Instagram](https://instagram-press.com/blog/2017/11/29/instagrams-2017-year-in-review/) - Instagram’s 2017 Year in Review
