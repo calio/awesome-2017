@@ -20,6 +20,7 @@ A curated list of awesomeness in 2017
 
 # AI
 * [WILDML](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/) - AI and Deep Learning in 2017 – A Year in Review
+* [Mybridge](https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7) - 30 Amazing Machine Learning Projects for the Past Year (v.2018)
 
 # Art
 * [Wikipedia](https://en.wikipedia.org/wiki/2017_in_art) - 2017 in art
