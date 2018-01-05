@@ -6,6 +6,7 @@ A curated list of awesomeness in 2017
 <!-- toc -->
 
 - [AI](#ai)
+- [Business](#business)
 - [Entertainment](#entertainment)
 - [Finance](#finance)
 - [Media](#media)
@@ -18,6 +19,10 @@ A curated list of awesomeness in 2017
 
 # AI
 * [WILDML](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/) - AI and Deep Learning in 2017 – A Year in Review
+
+# Business
+* [MIT Technology Review](https://www.technologyreview.com/lists/companies/2017/) - 50 Smartest Companies 2017
+* [Fortune](http://fortune.com/2017/12/18/business-trends-news-2017/) - The Best of 2017 in Business
 
 # Entertainment
 * [IMDb](http://www.imdb.com/search/title?year=2017&title_type=feature&) - Most Popular Feature Films Released 2017-01-01 to 2017-12-31
@@ -40,9 +45,10 @@ YEAR IN REVIEW
 
 # Tech
 * [Google](https://trends.google.com/trends/yis/2017/GLOBAL/) - Year in Search 2017
-* [MIT Technology Review](https://www.technologyreview.com/lists/companies/2017/) - 50 Smartest Companies 2017
+* [MIT Technology Review](https://www.technologyreview.com/lists/technologies/2017/) - 10 Breakthrough Technologies 2017
 * [Stackoverflow](https://insights.stackoverflow.com/survey/2017) - Developer Survey Results 2017
 * [Github](https://octoverse.github.com) - The State of the Octoverse 2017
 * [Instagram](https://instagram-press.com/blog/2017/11/29/instagrams-2017-year-in-review/) - Instagram’s 2017 Year in Review
-* [Uber](https://www.uber.com/blog/2017-in-the-rearview/) - Uber in 2017 
+* [Uber](https://www.uber.com/blog/2017-in-the-rearview/) - Uber in 2017
 * [IOTA](https://blog.iota.org/2017-in-review-2018-in-preview-704177484ef0) - 2017 in review, 2018 in preview
+* [Mashable](http://mashable.com/2017/12/06/best-tech-2017/#eix9OOvmEkqR) - The best tech of 2017
