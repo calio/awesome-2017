@@ -1,6 +1,21 @@
 # awesome-2017
 A curated list of awesomeness in 2017
 
+## Table of Contents
+
+<!-- toc -->
+
+- [AI](#ai)
+- [Entertainment](#entertainment)
+- [Finance](#finance)
+- [Media](#media)
+- [Science](#science)
+- [Tech](#tech)
+
+<!-- tocstop -->
+
+---
+
 # AI
 * [WILDML](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/) - AI and Deep Learning in 2017 – A Year in Review
 
