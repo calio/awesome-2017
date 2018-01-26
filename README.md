@@ -61,3 +61,4 @@ YEAR IN REVIEW
 * [Uber](https://www.uber.com/blog/2017-in-the-rearview/) - Uber in 2017
 * [IOTA](https://blog.iota.org/2017-in-review-2018-in-preview-704177484ef0) - 2017 in review, 2018 in preview
 * [Mashable](http://mashable.com/2017/12/06/best-tech-2017/#eix9OOvmEkqR) - The best tech of 2017
+* [HackerRank](https://research.hackerrank.com/developer-skills/2018) - 2018 Developer Skills Report
